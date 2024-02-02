@@ -1,0 +1,2706 @@
+{
+    "char_285_medic2": {
+        "name": "Lancet-2",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_1"
+    },
+    "char_286_cast3": {
+        "name": "Castle-3",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_1"
+    },
+    "char_376_therex": {
+        "name": "THRM-EX",
+        "nationID": "rhodes",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_1"
+    },
+    "char_4000_jnight": {
+        "name": "'Justice Knight'",
+        "nationID": "kazimierz",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_1"
+    },
+    "char_4077_palico": {
+        "name": "Terra Research Commission",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "bombarder",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_1"
+    },
+    "char_4093_frston": {
+        "name": "Friston-3",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_1"
+    },
+    "char_502_nblade": {
+        "name": "Yato",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_2"
+    },
+    "char_500_noirc": {
+        "name": "Noir Corne",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_2"
+    },
+    "char_503_rang": {
+        "name": "Rangers",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_2"
+    },
+    "char_501_durin": {
+        "name": "Durin",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_2"
+    },
+    "char_009_12fce": {
+        "name": "12F",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_2"
+    },
+    "char_123_fang": {
+        "name": "Fang",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_240_wyvern": {
+        "name": "Vanilla",
+        "nationID": "columbia",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_504_rguard": {
+        "name": "Reserve Operator - Melee",
+        "nationID": null,
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": null,
+        "rarity": "TIER_3"
+    },
+    "char_192_falco": {
+        "name": "Plume",
+        "nationID": "laterano",
+        "class": "PIONEER",
+        "subclass": "charger",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_208_melan": {
+        "name": "Melantha",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_281_popka": {
+        "name": "Popukar",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_209_ardign": {
+        "name": "Cardigan",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_122_beagle": {
+        "name": "Beagle",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_514_rdfend": {
+        "name": "Reserve Operator - Defender",
+        "nationID": null,
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": null,
+        "rarity": "TIER_3"
+    },
+    "char_284_spot": {
+        "name": "Spot",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "guardian",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_124_kroos": {
+        "name": "Kroos",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_211_adnach": {
+        "name": "Adnachiel",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_507_rsnipe": {
+        "name": "Reserve Operator - Sniper",
+        "nationID": null,
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": null,
+        "rarity": "TIER_3"
+    },
+    "char_121_lava": {
+        "name": "Lava",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_120_hibisc": {
+        "name": "Hibiscus",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_212_ansel": {
+        "name": "Ansel",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_506_rmedic": {
+        "name": "Reserve Operator - Logistics",
+        "nationID": null,
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": null,
+        "rarity": "TIER_3"
+    },
+    "char_210_stward": {
+        "name": "Steward",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_505_rcast": {
+        "name": "Reserve Operator - Caster",
+        "nationID": null,
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": null,
+        "rarity": "TIER_3"
+    },
+    "char_278_orchid": {
+        "name": "Orchid",
+        "nationID": "rhodes",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_141_nights": {
+        "name": "Haze",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_109_fmout": {
+        "name": "Gitano",
+        "nationID": "sami",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_253_greyy": {
+        "name": "Greyy",
+        "nationID": "bolivar",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_328_cammou": {
+        "name": "Click",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "funnel",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_469_indigo": {
+        "name": "Indigo",
+        "nationID": "iberia",
+        "class": "CASTER",
+        "subclass": "mystic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_4004_pudd": {
+        "name": "Pudding",
+        "nationID": "columbia",
+        "class": "CASTER",
+        "subclass": "chain",
+        "recruitment": "Voucher Exchange",
+        "rarity": "TIER_4"
+    },
+    "char_235_jesica": {
+        "name": "Jessica",
+        "nationID": "columbia",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_126_shotst": {
+        "name": "Meteor",
+        "nationID": "kazimierz",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_190_clour": {
+        "name": "Vermeil",
+        "nationID": "siracusa",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_133_mm": {
+        "name": "May",
+        "nationID": "victoria",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_118_yuki": {
+        "name": "Shirayuki",
+        "nationID": "higashi",
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_440_pinecn": {
+        "name": "Pinecone",
+        "nationID": "columbia",
+        "class": "SNIPER",
+        "subclass": "reaperrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_302_glaze": {
+        "name": "Ambriel",
+        "nationID": "laterano",
+        "class": "SNIPER",
+        "subclass": "longrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_366_acdrop": {
+        "name": "Aciddrop",
+        "nationID": "columbia",
+        "class": "SNIPER",
+        "subclass": "closerange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_4062_totter": {
+        "name": "Totter",
+        "nationID": "sargon",
+        "class": "SNIPER",
+        "subclass": "siegesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_198_blackd": {
+        "name": "Courier",
+        "nationID": "kjerag",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Credit Store",
+        "rarity": "TIER_4"
+    },
+    "char_149_scave": {
+        "name": "Scavenger",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_290_vigna": {
+        "name": "Vigna",
+        "nationID": "columbia",
+        "class": "PIONEER",
+        "subclass": "charger",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_151_myrtle": {
+        "name": "Myrtle",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "bearer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_452_bstalk": {
+        "name": "Beanstalk",
+        "nationID": "columbia",
+        "class": "PIONEER",
+        "subclass": "tactician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_130_doberm": {
+        "name": "Dobermann",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "instructor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_289_gyuki": {
+        "name": "Matoimaru",
+        "nationID": "higashi",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_159_peacok": {
+        "name": "Conviction",
+        "nationID": "minos",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_4"
+    },
+    "char_193_frostl": {
+        "name": "Frostleaf",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_127_estell": {
+        "name": "Estelle",
+        "nationID": "sargon",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_185_frncat": {
+        "name": "Mousse",
+        "nationID": "victoria",
+        "class": "WARRIOR",
+        "subclass": "artsfghter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_301_cutter": {
+        "name": "Cutter",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "sword",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_337_utage": {
+        "name": "Utage",
+        "nationID": "higashi",
+        "class": "WARRIOR",
+        "subclass": "musha",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_271_spikes": {
+        "name": "Arene",
+        "nationID": "laterano",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_4067_lolxh": {
+        "name": "Luo Xiaohei",
+        "nationID": "yan",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_4"
+    },
+    "char_4063_quartz": {
+        "name": "Quartz",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "crusher",
+        "recruitment": "Voucher Exchange",
+        "rarity": "TIER_4"
+    },
+    "char_491_humus": {
+        "name": "Humus",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "reaper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_237_gravel": {
+        "name": "Gravel",
+        "nationID": "kazimierz",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_272_strong": {
+        "name": "Jaye",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "merchant",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_236_rope": {
+        "name": "Rope",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "hookmaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_117_myrrh": {
+        "name": "Myrrh",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_187_ccheal": {
+        "name": "Gavial",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Credit Store",
+        "rarity": "TIER_4"
+    },
+    "char_298_susuro": {
+        "name": "Sussurro",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_181_flower": {
+        "name": "Perfumer",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "ringhealer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_385_finlpp": {
+        "name": "Purestream",
+        "nationID": "yan",
+        "class": "MEDIC",
+        "subclass": "healer",
+        "recruitment": "Limited Gift Pack",
+        "rarity": "TIER_4"
+    },
+    "char_4041_chnut": {
+        "name": "Chestnut",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "wandermedic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_199_yak": {
+        "name": "Matterhorn",
+        "nationID": "kjerag",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_150_snakek": {
+        "name": "Cuora",
+        "nationID": "columbia",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_381_bubble": {
+        "name": "Bubble",
+        "nationID": "sargon",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_196_sunbr": {
+        "name": "Gummy",
+        "nationID": "ursus",
+        "class": "TANK",
+        "subclass": "guardian",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_260_durnar": {
+        "name": "Dur-nar",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "artsprotector",
+        "recruitment": "Credit Store",
+        "rarity": "TIER_4"
+    },
+    "char_110_deepcl": {
+        "name": "Deepcolor",
+        "nationID": "egir",
+        "class": "SUPPORT",
+        "subclass": "summoner",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_183_skgoat": {
+        "name": "Earthspirit",
+        "nationID": "leithanien",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_258_podego": {
+        "name": "Podenco",
+        "nationID": "rhodes",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_484_robrta": {
+        "name": "Roberta",
+        "nationID": "columbia",
+        "class": "SUPPORT",
+        "subclass": "craftsman",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_355_ethan": {
+        "name": "Ethan",
+        "nationID": "rhodes",
+        "class": "SPECIAL",
+        "subclass": "stalker",
+        "recruitment": "Voucher Exchange",
+        "rarity": "TIER_4"
+    },
+    "char_277_sqrrel": {
+        "name": "Shaw",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "pusher",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_128_plosis": {
+        "name": "Ptilopsis",
+        "nationID": "columbia",
+        "class": "MEDIC",
+        "subclass": "ringhealer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_275_breeze": {
+        "name": "Breeze",
+        "nationID": "victoria",
+        "class": "MEDIC",
+        "subclass": "ringhealer",
+        "recruitment": "Voucher Exchange",
+        "rarity": "TIER_5"
+    },
+    "char_115_headbr": {
+        "name": "Zima",
+        "nationID": "ursus",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_102_texas": {
+        "name": "Texas",
+        "nationID": "lungmen",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting, Pinboard Missions",
+        "rarity": "TIER_5"
+    },
+    "char_349_chiave": {
+        "name": "Chiave",
+        "nationID": "siracusa",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_488_buildr": {
+        "name": "Poncirus",
+        "nationID": "columbia",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_513_apionr": {
+        "name": "Tulip",
+        "nationID": null,
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "char_261_sddrag": {
+        "name": "Reed",
+        "nationID": "victoria",
+        "class": "PIONEER",
+        "subclass": "charger",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_496_wildmn": {
+        "name": "Wild Mane",
+        "nationID": "kazimierz",
+        "class": "PIONEER",
+        "subclass": "charger",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_401_elysm": {
+        "name": "Elysium",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "bearer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_476_blkngt": {
+        "name": "Blacknight",
+        "nationID": "rim",
+        "class": "PIONEER",
+        "subclass": "tactician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_497_ctable": {
+        "name": "Cantabile",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "agent",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4017_puzzle": {
+        "name": "Puzzle",
+        "nationID": "victoria",
+        "class": "PIONEER",
+        "subclass": "agent",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_308_swire": {
+        "name": "Swire",
+        "nationID": "lungmen",
+        "class": "WARRIOR",
+        "subclass": "instructor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_265_sophia": {
+        "name": "Whislash",
+        "nationID": "kazimierz",
+        "class": "WARRIOR",
+        "subclass": "instructor",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_4106_bryota": {
+        "name": "Bryophyta",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "instructor",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_106_franka": {
+        "name": "Franka",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_131_flameb": {
+        "name": "Flamebringer",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_154_morgan": {
+        "name": "Morgan",
+        "nationID": "victoria",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_508_aguard": {
+        "name": "Sharp",
+        "nationID": null,
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "char_155_tiger": {
+        "name": "Indra",
+        "nationID": "victoria",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_415_flint": {
+        "name": "Flint",
+        "nationID": "sargon",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_157_dagda": {
+        "name": "Dagda",
+        "nationID": "victoria",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_140_whitew": {
+        "name": "Lappland",
+        "nationID": "siracusa",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_294_ayer": {
+        "name": "Ayerscarpe",
+        "nationID": "rim",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4083_chimes": {
+        "name": "Wind Chimes",
+        "nationID": "yan",
+        "class": "WARRIOR",
+        "subclass": "crusher",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_252_bibeak": {
+        "name": "Bibeak",
+        "nationID": "sami",
+        "class": "WARRIOR",
+        "subclass": "sword",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_459_tachak": {
+        "name": "Tachanka",
+        "nationID": null,
+        "class": "WARRIOR",
+        "subclass": "sword",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_143_ghost": {
+        "name": "Specter",
+        "nationID": "egir",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_356_broca": {
+        "name": "Broca",
+        "nationID": "siracusa",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_274_astesi": {
+        "name": "Astesia",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "artsfghter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_333_sidero": {
+        "name": "Sideroca",
+        "nationID": "minos",
+        "class": "WARRIOR",
+        "subclass": "artsfghter",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_475_akafyu": {
+        "name": "Akafuyu",
+        "nationID": "higashi",
+        "class": "WARRIOR",
+        "subclass": "musha",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_1030_noirc2": {
+        "name": "Rathalos S Noir Corne",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "musha",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_421_crow": {
+        "name": "La Pluma",
+        "nationID": "bolivar",
+        "class": "WARRIOR",
+        "subclass": "reaper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4066_highmo": {
+        "name": "Highmore",
+        "nationID": "iberia",
+        "class": "WARRIOR",
+        "subclass": "reaper",
+        "recruitment": "Obtained from Integrated Strategies",
+        "rarity": "TIER_5"
+    },
+    "char_486_takila": {
+        "name": "Tequila",
+        "nationID": "bolivar",
+        "class": "WARRIOR",
+        "subclass": "librator",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_129_bluep": {
+        "name": "Blue Poison",
+        "nationID": "iberia",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_204_platnm": {
+        "name": "Platinum",
+        "nationID": "kazimierz",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_367_swllow": {
+        "name": "GreyThroat",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_511_asnipe": {
+        "name": "Stormeye",
+        "nationID": null,
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "char_365_aprl": {
+        "name": "April",
+        "nationID": "rim",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_1021_kroos2": {
+        "name": "Kroos the Keen Glint",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_498_inside": {
+        "name": "Insider",
+        "nationID": "laterano",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_219_meteo": {
+        "name": "Meteorite",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_379_sesa": {
+        "name": "Sesa",
+        "nationID": "sargon",
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4078_bdhkgt": {
+        "name": "Jieyun",
+        "nationID": "yan",
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_279_excu": {
+        "name": "Executor",
+        "nationID": "laterano",
+        "class": "SNIPER",
+        "subclass": "reaperrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_346_aosta": {
+        "name": "Aosta",
+        "nationID": "siracusa",
+        "class": "SNIPER",
+        "subclass": "reaperrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_002_amiya": {
+        "name": "Amiya",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Main Story",
+        "rarity": "TIER_5"
+    },
+    "char_405_absin": {
+        "name": "Absinthe",
+        "nationID": "ursus",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_411_tomimi": {
+        "name": "Tomimi",
+        "nationID": "sargon",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_466_qanik": {
+        "name": "Qanipalaat",
+        "nationID": "sami",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Voucher Exchange",
+        "rarity": "TIER_5"
+    },
+    "char_166_skfire": {
+        "name": "Skyfire",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_509_acast": {
+        "name": "Pith",
+        "nationID": null,
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "char_306_leizi": {
+        "name": "Leizi",
+        "nationID": "yan",
+        "class": "CASTER",
+        "subclass": "chain",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_135_halo": {
+        "name": "Astgenne",
+        "nationID": "columbia",
+        "class": "CASTER",
+        "subclass": "chain",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_344_beewax": {
+        "name": "Beeswax",
+        "nationID": "sargon",
+        "class": "CASTER",
+        "subclass": "phalanx",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_373_lionhd": {
+        "name": "Leonhardt",
+        "nationID": "rim",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_388_mint": {
+        "name": "Mint",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "phalanx",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_338_iris": {
+        "name": "Iris",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "mystic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_297_hamoni": {
+        "name": "Harmonie",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "mystic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_1011_lava2": {
+        "name": "Lava the Purgatory",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_489_serum": {
+        "name": "Corroserum",
+        "nationID": "columbia",
+        "class": "CASTER",
+        "subclass": "blastcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4013_kjera": {
+        "name": "Kjera",
+        "nationID": "kjerag",
+        "class": "CASTER",
+        "subclass": "funnel",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_4040_rockr": {
+        "name": "Rockrock",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "funnel",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4054_malist": {
+        "name": "Minimalist",
+        "nationID": "sargon",
+        "class": "CASTER",
+        "subclass": "funnel",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_242_otter": {
+        "name": "Mayer",
+        "nationID": "columbia",
+        "class": "SUPPORT",
+        "subclass": "summoner",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_336_folivo": {
+        "name": "Scene",
+        "nationID": "sargon",
+        "class": "SUPPORT",
+        "subclass": "summoner",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_108_silent": {
+        "name": "Silence",
+        "nationID": "columbia",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_171_bldsk": {
+        "name": "Warfarin",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_345_folnic": {
+        "name": "Folinic",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_510_amedic": {
+        "name": "Touch",
+        "nationID": null,
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "char_348_ceylon": {
+        "name": "Ceylon",
+        "nationID": "columbia",
+        "class": "MEDIC",
+        "subclass": "healer",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_436_whispr": {
+        "name": "Whisperain",
+        "nationID": "iberia",
+        "class": "MEDIC",
+        "subclass": "healer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_402_tuye": {
+        "name": "Tuye",
+        "nationID": "sargon",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_473_mberry": {
+        "name": "Mulberry",
+        "nationID": "yan",
+        "class": "MEDIC",
+        "subclass": "wandermedic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_449_glider": {
+        "name": "Honeyberry",
+        "nationID": "rim",
+        "class": "MEDIC",
+        "subclass": "wandermedic",
+        "recruitment": "Voucher Exchange",
+        "rarity": "TIER_5"
+    },
+    "char_1024_hbisc2": {
+        "name": "Hibiscus the Purifier",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "incantationmedic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4071_peper": {
+        "name": "Paprika",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "chainhealer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_148_nearl": {
+        "name": "Nearl",
+        "nationID": null,
+        "class": "TANK",
+        "subclass": "guardian",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_226_hmau": {
+        "name": "Hung",
+        "nationID": "lungmen",
+        "class": "TANK",
+        "subclass": "guardian",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_144_red": {
+        "name": "Projekt Red",
+        "nationID": "rhodes",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_243_waaifu": {
+        "name": "Waai Fu",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_214_kafka": {
+        "name": "Kafka",
+        "nationID": "columbia",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_455_nothin": {
+        "name": "Mr. Nothing",
+        "nationID": "yan",
+        "class": "SPECIAL",
+        "subclass": "merchant",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_107_liskam": {
+        "name": "Liskarm",
+        "nationID": "columbia",
+        "class": "TANK",
+        "subclass": "shotprotector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_201_moeshd": {
+        "name": "Croissant",
+        "nationID": "lungmen",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_325_bison": {
+        "name": "Bison",
+        "nationID": "lungmen",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_163_hpsts": {
+        "name": "Vulcan",
+        "nationID": "minos",
+        "class": "TANK",
+        "subclass": "unyield",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_378_asbest": {
+        "name": "Asbestos",
+        "nationID": "rim",
+        "class": "TANK",
+        "subclass": "artsprotector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_512_aprot": {
+        "name": "Shalem",
+        "nationID": null,
+        "class": "TANK",
+        "subclass": "artsprotector",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "char_4025_aprot2": {
+        "name": "Shalem",
+        "nationID": "victoria",
+        "class": "TANK",
+        "subclass": "artsprotector",
+        "recruitment": "Obtained from Integrated Strategies",
+        "rarity": "TIER_5"
+    },
+    "char_4047_pianst": {
+        "name": "Czerny",
+        "nationID": "leithanien",
+        "class": "TANK",
+        "subclass": "artsprotector",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_457_blitz": {
+        "name": "Blitz",
+        "nationID": null,
+        "class": "TANK",
+        "subclass": "shotprotector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_304_zebra": {
+        "name": "Heavyrain",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_431_ashlok": {
+        "name": "Ashlock",
+        "nationID": "kazimierz",
+        "class": "TANK",
+        "subclass": "fortress",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_493_firwhl": {
+        "name": "Firewhistle",
+        "nationID": "rim",
+        "class": "TANK",
+        "subclass": "fortress",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_422_aurora": {
+        "name": "Aurora",
+        "nationID": "kjerag",
+        "class": "TANK",
+        "subclass": "duelist",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_464_cement": {
+        "name": "Cement",
+        "nationID": "rim",
+        "class": "TANK",
+        "subclass": "duelist",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_145_prove": {
+        "name": "Provence",
+        "nationID": "siracusa",
+        "class": "SNIPER",
+        "subclass": "closerange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4006_melnte": {
+        "name": "Melanite",
+        "nationID": "columbia",
+        "class": "SNIPER",
+        "subclass": "closerange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_158_milu": {
+        "name": "Firewatch",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "longrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_218_cuttle": {
+        "name": "Andreana",
+        "nationID": "egir",
+        "class": "SNIPER",
+        "subclass": "longrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4014_lunacu": {
+        "name": "Lunacub",
+        "nationID": "siracusa",
+        "class": "SNIPER",
+        "subclass": "longrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_363_toddi": {
+        "name": "Toddifons",
+        "nationID": "victoria",
+        "class": "SNIPER",
+        "subclass": "siegesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4043_erato": {
+        "name": "Erato",
+        "nationID": "minos",
+        "class": "SNIPER",
+        "subclass": "siegesniper",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_1027_greyy2": {
+        "name": "Greyy the Lightningbearer",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "bombarder",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4015_spuria": {
+        "name": "Spuria",
+        "nationID": "laterano",
+        "class": "SPECIAL",
+        "subclass": "geek",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_173_slchan": {
+        "name": "Cliffheart",
+        "nationID": "kjerag",
+        "class": "SPECIAL",
+        "subclass": "hookmaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_383_snsant": {
+        "name": "Snowsant",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "hookmaster",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_174_slbell": {
+        "name": "Pramanix",
+        "nationID": "kjerag",
+        "class": "SUPPORT",
+        "subclass": "underminer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_254_vodfox": {
+        "name": "Shamare",
+        "nationID": "siracusa",
+        "class": "SUPPORT",
+        "subclass": "underminer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_195_glassb": {
+        "name": "Istina",
+        "nationID": "ursus",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_326_glacus": {
+        "name": "Glaucus",
+        "nationID": "iberia",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4032_provs": {
+        "name": "Proviso",
+        "nationID": "kazimierz",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_433_windft": {
+        "name": "Windflit",
+        "nationID": "columbia",
+        "class": "SUPPORT",
+        "subclass": "craftsman",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_101_sora": {
+        "name": "Sora",
+        "nationID": "lungmen",
+        "class": "SUPPORT",
+        "subclass": "bard",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4045_heidi": {
+        "name": "Heidi",
+        "nationID": "victoria",
+        "class": "SUPPORT",
+        "subclass": "bard",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_343_tknogi": {
+        "name": "Tsukinogi",
+        "nationID": "higashi",
+        "class": "SUPPORT",
+        "subclass": "blessing",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4019_ncdeer": {
+        "name": "Nine-Colored Deer",
+        "nationID": "yan",
+        "class": "SUPPORT",
+        "subclass": "blessing",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_492_quercu": {
+        "name": "Quercus",
+        "nationID": "rhodes",
+        "class": "SUPPORT",
+        "subclass": "blessing",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_215_mantic": {
+        "name": "Manticore",
+        "nationID": "sargon",
+        "class": "SPECIAL",
+        "subclass": "stalker",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_478_kirara": {
+        "name": "Kirara",
+        "nationID": "higashi",
+        "class": "SPECIAL",
+        "subclass": "stalker",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_241_panda": {
+        "name": "FEater",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "pusher",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_4036_forcer": {
+        "name": "Enforcer",
+        "nationID": "laterano",
+        "class": "SPECIAL",
+        "subclass": "pusher",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_451_robin": {
+        "name": "Robin",
+        "nationID": "columbia",
+        "class": "SPECIAL",
+        "subclass": "traper",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_458_rfrost": {
+        "name": "Frost",
+        "nationID": null,
+        "class": "SPECIAL",
+        "subclass": "traper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_369_bena": {
+        "name": "Bena",
+        "nationID": "victoria",
+        "class": "SPECIAL",
+        "subclass": "dollkeeper",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_4016_kazema": {
+        "name": "Kazemaru",
+        "nationID": "higashi",
+        "class": "SPECIAL",
+        "subclass": "dollkeeper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_103_angel": {
+        "name": "Exusiai",
+        "nationID": "lungmen",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_332_archet": {
+        "name": "Archetto",
+        "nationID": "laterano",
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_456_ash": {
+        "name": "Ash",
+        "nationID": null,
+        "class": "SNIPER",
+        "subclass": "fastshot",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_340_shwaz": {
+        "name": "Schwarz",
+        "nationID": "columbia",
+        "class": "SNIPER",
+        "subclass": "closerange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4055_bgsnow": {
+        "name": "Poz\u00ebmka",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "closerange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_430_fartth": {
+        "name": "Fartooth",
+        "nationID": "kazimierz",
+        "class": "SNIPER",
+        "subclass": "longrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_113_cqbw": {
+        "name": "W",
+        "nationID": null,
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_300_phenxi": {
+        "name": "Fiammetta",
+        "nationID": "laterano",
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_197_poca": {
+        "name": "Rosa",
+        "nationID": "ursus",
+        "class": "SNIPER",
+        "subclass": "siegesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_391_rosmon": {
+        "name": "Rosmontis",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "bombarder",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1013_chen2": {
+        "name": "Ch'en the Holungday",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "reaperrange",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_112_siege": {
+        "name": "Siege",
+        "nationID": "victoria",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_222_bpipe": {
+        "name": "Bagpipe",
+        "nationID": "victoria",
+        "class": "PIONEER",
+        "subclass": "charger",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_362_saga": {
+        "name": "Saga",
+        "nationID": "higashi",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_479_sleach": {
+        "name": "Saileach",
+        "nationID": "victoria",
+        "class": "PIONEER",
+        "subclass": "bearer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_420_flamtl": {
+        "name": "Flametail",
+        "nationID": "kazimierz",
+        "class": "PIONEER",
+        "subclass": "pioneer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_427_vigil": {
+        "name": "Vigil",
+        "nationID": "siracusa",
+        "class": "PIONEER",
+        "subclass": "tactician",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_6"
+    },
+    "char_249_mlyss": {
+        "name": "Muelsyse",
+        "nationID": "columbia",
+        "class": "PIONEER",
+        "subclass": "tactician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4087_ines": {
+        "name": "Ines",
+        "nationID": "rhodes",
+        "class": "PIONEER",
+        "subclass": "agent",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_134_ifrit": {
+        "name": "Ifrit",
+        "nationID": "columbia",
+        "class": "CASTER",
+        "subclass": "blastcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_213_mostma": {
+        "name": "Mostima",
+        "nationID": "laterano",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_180_amgoat": {
+        "name": "Eyjafjalla",
+        "nationID": "leithanien",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_2013_cerber": {
+        "name": "Ceobe",
+        "nationID": "rhodes",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4027_heyak": {
+        "name": "Ho'olheyak",
+        "nationID": "columbia",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_2015_dusk": {
+        "name": "Dusk",
+        "nationID": "yan",
+        "class": "CASTER",
+        "subclass": "splashcaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_472_pasngr": {
+        "name": "Passenger",
+        "nationID": "sargon",
+        "class": "CASTER",
+        "subclass": "chain",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_426_billro": {
+        "name": "Carnelian",
+        "nationID": "leithanien",
+        "class": "CASTER",
+        "subclass": "phalanx",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4080_lin": {
+        "name": "Lin",
+        "nationID": "lungmen",
+        "class": "CASTER",
+        "subclass": "phalanx",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_377_gdglow": {
+        "name": "Goldenglow",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "funnel",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4046_ebnhlz": {
+        "name": "Ebenholz",
+        "nationID": "leithanien",
+        "class": "CASTER",
+        "subclass": "mystic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_206_gnosis": {
+        "name": "Gnosis",
+        "nationID": "kjerag",
+        "class": "SUPPORT",
+        "subclass": "underminer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_291_aglina": {
+        "name": "Angelina",
+        "nationID": "siracusa",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_358_lisa": {
+        "name": "Suzuran",
+        "nationID": "siracusa",
+        "class": "SUPPORT",
+        "subclass": "slower",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_248_mgllan": {
+        "name": "Magallan",
+        "nationID": "columbia",
+        "class": "SUPPORT",
+        "subclass": "summoner",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1012_skadi2": {
+        "name": "Skadi the Corrupting Heart",
+        "nationID": "egir",
+        "class": "SUPPORT",
+        "subclass": "bard",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1031_slent2": {
+        "name": "Silence the Paradigmatic",
+        "nationID": "columbia",
+        "class": "SUPPORT",
+        "subclass": "blessing",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_6"
+    },
+    "char_2023_ling": {
+        "name": "Ling",
+        "nationID": "yan",
+        "class": "SUPPORT",
+        "subclass": "summoner",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4072_ironmn": {
+        "name": "Stainless",
+        "nationID": "victoria",
+        "class": "SUPPORT",
+        "subclass": "craftsman",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_250_phatom": {
+        "name": "Phantom",
+        "nationID": "victoria",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1028_texas2": {
+        "name": "Texas the Omertosa",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1029_yato2": {
+        "name": "Kirin R Yato",
+        "nationID": "rhodes",
+        "class": "SPECIAL",
+        "subclass": "executor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_322_lmlee": {
+        "name": "Lee",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "merchant",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1033_swire2": {
+        "name": "Swire the Elegant Wit",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "merchant",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_400_weedy": {
+        "name": "Weedy",
+        "nationID": "rhodes",
+        "class": "SPECIAL",
+        "subclass": "pusher",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_225_haak": {
+        "name": "Aak",
+        "nationID": "lungmen",
+        "class": "SPECIAL",
+        "subclass": "geek",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_474_glady": {
+        "name": "Gladiia",
+        "nationID": "egir",
+        "class": "SPECIAL",
+        "subclass": "hookmaster",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_6"
+    },
+    "char_437_mizuki": {
+        "name": "Mizuki",
+        "nationID": "higashi",
+        "class": "SPECIAL",
+        "subclass": "stalker",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1023_ghost2": {
+        "name": "Specter the Unchained",
+        "nationID": "egir",
+        "class": "SPECIAL",
+        "subclass": "dollkeeper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4048_doroth": {
+        "name": "Dorothy",
+        "nationID": "columbia",
+        "class": "SPECIAL",
+        "subclass": "traper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_147_shining": {
+        "name": "Shining",
+        "nationID": null,
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_179_cgbird": {
+        "name": "Nightingale",
+        "nationID": null,
+        "class": "MEDIC",
+        "subclass": "ringhealer",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_003_kalts": {
+        "name": "Kal'tsit",
+        "nationID": "rhodes",
+        "class": "MEDIC",
+        "subclass": "physician",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4042_lumen": {
+        "name": "Lumen",
+        "nationID": "iberia",
+        "class": "MEDIC",
+        "subclass": "healer",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_6"
+    },
+    "char_1016_agoat2": {
+        "name": "Eyjafjalla the Hv\u00edt Aska",
+        "nationID": "leithanien",
+        "class": "MEDIC",
+        "subclass": "wandermedic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1020_reed2": {
+        "name": "Reed the Flame Shadow",
+        "nationID": "victoria",
+        "class": "MEDIC",
+        "subclass": "incantationmedic",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_136_hsguma": {
+        "name": "Hoshiguma",
+        "nationID": "lungmen",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_202_demkni": {
+        "name": "Saria",
+        "nationID": "columbia",
+        "class": "TANK",
+        "subclass": "guardian",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_423_blemsh": {
+        "name": "Blemishine",
+        "nationID": "kazimierz",
+        "class": "TANK",
+        "subclass": "guardian",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_2014_nian": {
+        "name": "Nian",
+        "nationID": "yan",
+        "class": "TANK",
+        "subclass": "protector",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_311_mudrok": {
+        "name": "Mudrock",
+        "nationID": "rhodes",
+        "class": "TANK",
+        "subclass": "unyield",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4065_judge": {
+        "name": "Penance",
+        "nationID": "siracusa",
+        "class": "TANK",
+        "subclass": "unyield",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_416_zumama": {
+        "name": "Eunectes",
+        "nationID": "sargon",
+        "class": "TANK",
+        "subclass": "duelist",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4039_horn": {
+        "name": "Horn",
+        "nationID": "victoria",
+        "class": "TANK",
+        "subclass": "fortress",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_264_f12yin": {
+        "name": "Mountain",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_2024_chyue": {
+        "name": "Chongyue",
+        "nationID": "yan",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_172_svrash": {
+        "name": "SilverAsh",
+        "nationID": "kjerag",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_293_thorns": {
+        "name": "Thorns",
+        "nationID": "iberia",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4082_qiubai": {
+        "name": "Qiubai",
+        "nationID": "yan",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_010_chen": {
+        "name": "Ch'en",
+        "nationID": "lungmen",
+        "class": "WARRIOR",
+        "subclass": "sword",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4009_irene": {
+        "name": "Irene",
+        "nationID": "iberia",
+        "class": "WARRIOR",
+        "subclass": "sword",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_017_huang": {
+        "name": "Blaze",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1026_gvial2": {
+        "name": "Gavial the Invincible",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_350_surtr": {
+        "name": "Surtr",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "artsfghter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_188_helage": {
+        "name": "Hellagur",
+        "nationID": "ursus",
+        "class": "WARRIOR",
+        "subclass": "musha",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_485_pallas": {
+        "name": "Pallas",
+        "nationID": "minos",
+        "class": "WARRIOR",
+        "subclass": "instructor",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1014_nearl2": {
+        "name": "Nearl the Radiant Knight",
+        "nationID": "kazimierz",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_1032_excu2": {
+        "name": "Executor the Ex Foedere",
+        "nationID": "laterano",
+        "class": "WARRIOR",
+        "subclass": "reaper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "char_4064_mlynar": {
+        "name": "M\u0142ynar",
+        "nationID": "kazimierz",
+        "class": "WARRIOR",
+        "subclass": "librator",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "token_10000_silent_healrb": {
+        "name": "Medic Drone",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10001_deepcl_tentac": {
+        "name": "Tentacle",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_4"
+    },
+    "token_10002_kalts_mon3tr": {
+        "name": "Mon3tr",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10003_cgbird_bird": {
+        "name": "Mirage",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10004_otter_motter": {
+        "name": "Robotter",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10005_mgllan_drone1": {
+        "name": "Soaring Dragon F",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10005_mgllan_drone2": {
+        "name": "Soaring Dragon L",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10005_mgllan_drone3": {
+        "name": "Soaring Dragon A",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10006_vodfox_doll": {
+        "name": "Cursed Doll",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10007_phatom_twin": {
+        "name": "Phantom in the Mirror",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "executor",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10008_cqbw_box": {
+        "name": "Front Toward Enemy",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10009_weedy_cannon": {
+        "name": "Industrial Water Cannon",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10010_folivo_car": {
+        "name": "Mobile Buggy Cam",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10011_beewax_oblisk": {
+        "name": "Sand Obelisk",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10012_rosmon_shield": {
+        "name": "Rosmontis's Tactical Equipment",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10013_robin_mine": {
+        "name": "'Clip'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10014_bstalk_crab": {
+        "name": "Metal Crab Guard Team",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_4"
+    },
+    "token_10015_dusk_drgn": {
+        "name": "'Freeling'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10016_rfrost_mine": {
+        "name": "Welcome Mat",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10017_skadi2_dedant": {
+        "name": "Skadi's Seaborn",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10018_robrta_mach": {
+        "name": "Full Auto Modeler",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_4"
+    },
+    "token_10019_nearl2_sword": {
+        "name": "'Blazing Sun'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10020_ling_soul1": {
+        "name": "'Tranquility'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10020_ling_soul2": {
+        "name": "'Peripateticism'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10020_ling_soul3": {
+        "name": "'Thunderer'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10021_blkngt_hypnos": {
+        "name": "Slumberfoot",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10022_kazema_shadow": {
+        "name": "Kaminingyo",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10023_windft_wrench": {
+        "name": "Reliable Battery",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_5"
+    },
+    "token_10024_ebnhlz_rcube": {
+        "name": "Remnants of Days Past",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10025_doroth_recttp": {
+        "name": "Resonator",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10026_bgsnow_subbow": {
+        "name": "'Typewriter'",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10027_ironmn_pile1": {
+        "name": "Stainless\u2122 Multifunctional Platform",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10027_ironmn_pile2": {
+        "name": "Stainless\u2122 Multifunctional Platform",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10027_ironmn_pile3": {
+        "name": "Prototype of Feist's Metal Crab",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10028_vigil_wolf": {
+        "name": "Wolfpack",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10029_slent2_protrb": {
+        "name": "Night Banisher",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10030_mlyss_wtrman": {
+        "name": "Flowing Shape",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "token_10031_swire2_gdtrap": {
+        "name": "Champagne Bomb",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "notchar1",
+        "recruitment": null,
+        "rarity": "TIER_6"
+    },
+    "char_230_savage": {
+        "name": "Savage",
+        "nationID": "rim",
+        "class": "WARRIOR",
+        "subclass": "centurion",
+        "recruitment": "Anniversary Reward",
+        "rarity": "TIER_5"
+    },
+    "char_282_catap": {
+        "name": "Catapult",
+        "nationID": "rhodes",
+        "class": "SNIPER",
+        "subclass": "aoesniper",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_283_midn": {
+        "name": "Midnight",
+        "nationID": "rhodes",
+        "class": "WARRIOR",
+        "subclass": "lord",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_3"
+    },
+    "char_137_brownb": {
+        "name": "Beehunter",
+        "nationID": "ursus",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_347_jaksel": {
+        "name": "Jackie",
+        "nationID": "columbia",
+        "class": "WARRIOR",
+        "subclass": "fighter",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_4"
+    },
+    "char_164_nightm": {
+        "name": "Nightmare",
+        "nationID": "victoria",
+        "class": "CASTER",
+        "subclass": "corecaster",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_5"
+    },
+    "char_220_grani": {
+        "name": "Grani",
+        "nationID": "victoria",
+        "class": "PIONEER",
+        "subclass": "charger",
+        "recruitment": "Event Reward",
+        "rarity": "TIER_5"
+    },
+    "char_263_skadi": {
+        "name": "Skadi",
+        "nationID": "egir",
+        "class": "WARRIOR",
+        "subclass": "fearless",
+        "recruitment": "Recruitment & Headhunting",
+        "rarity": "TIER_6"
+    },
+    "trap_079_allydonq": {
+        "name": "Tide-Hunt Knight",
+        "nationID": null,
+        "class": "TOKEN",
+        "subclass": "pioneer",
+        "recruitment": null,
+        "rarity": "TIER_1"
+    }
+}

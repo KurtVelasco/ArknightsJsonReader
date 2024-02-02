@@ -1,0 +1,6 @@
+name:name
+nationID:nationId
+class:profession
+subclass:subProfessionId
+recruitment:itemObtainApproach
+rarity:rarity
